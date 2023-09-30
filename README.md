@@ -7,17 +7,17 @@
 ## Home Page:
 ![home page](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/home.png)
 
-## Resources:
-![Resources](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/servicesPag2.png)
-
-## Share:
-![Share](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/aboutUsPag3.png)
-
 ## Services:
-![services](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/comentsPag4.png)
+![Services](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/servicesPag2.png)
 
-## Contact:
-![Contact](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/redePag5.png)
+## About:
+![About](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/aboutUsPag3.png)
+
+## Comments:
+![coment](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/comentsPag4.png)
+
+## Social Media:
+![Social](https://github.com/ViniciusV4/MarketingAgency/blob/main/sites/redePag5.png)
 
 ## Technologies Used:
 
